@@ -2,11 +2,9 @@
 
 <h2>1. Designing a Scalable and Compute-Efficient AI System</h2>
 
-<h3>Core Objectives:</h3>
-<ul>
-    <li><strong>Scalability:</strong> Ensure the system can handle increasing amounts of data and complexity as the project grows.</li>
-    <li><strong>Compute Efficiency:</strong> Optimize resource usage to balance performance and computational costs.</li>
-</ul>
+<h2>Core Objective Function</h2>
+<p>The core objective function of INTELLECT is to maximize the overall effectiveness of the AI system while ensuring optimal use of computational resources. To achieve this, the system is designed to adapt its learning strategy according to the specific nature of each task. This means selecting the most appropriate learning paradigm—such as reinforcement learning for decision-making tasks, supervised learning for classification tasks, and so forth—and dynamically adjusting the approach as needed. The system is also focused on resource optimization, balancing performance with computational costs, and managing data handling to minimize waste. Scalability is another key aspect, with the system structured to handle increasing data volumes and complexity without performance degradation, employing modular components that can be independently scaled and upgraded. Additionally, the system integrates ethical guidelines and transparency mechanisms to ensure fair, unbiased, and explainable decision-making. Contextual awareness is maintained to enhance performance over long-term interactions, using efficient strategies for context retrieval and management. Continuous improvement is supported through regular performance monitoring, feedback integration, and system adjustments to refine effectiveness and efficiency over time.</p>
+
 
 <h3>Key Modules and Scalable Design</h3>
 
