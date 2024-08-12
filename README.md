@@ -2,10 +2,6 @@
 
 <h2>1. Designing a Scalable and Compute-Efficient AI System</h2>
 
-<h2>Core Objective Function</h2>
-<p>The core objective function of INTELLECT is to maximize the overall effectiveness of the AI system while ensuring optimal use of computational resources. To achieve this, the system is designed to adapt its learning strategy according to the specific nature of each task. This means selecting the most appropriate learning paradigm—such as reinforcement learning for decision-making tasks, supervised learning for classification tasks, and so forth—and dynamically adjusting the approach as needed. The system is also focused on resource optimization, balancing performance with computational costs, and managing data handling to minimize waste. Scalability is another key aspect, with the system structured to handle increasing data volumes and complexity without performance degradation, employing modular components that can be independently scaled and upgraded. Additionally, the system integrates ethical guidelines and transparency mechanisms to ensure fair, unbiased, and explainable decision-making. Contextual awareness is maintained to enhance performance over long-term interactions, using efficient strategies for context retrieval and management. Continuous improvement is supported through regular performance monitoring, feedback integration, and system adjustments to refine effectiveness and efficiency over time.</p>
-
-
 <h3>Key Modules and Scalable Design</h3>
 
 <h4>Task Identification Module</h4>
@@ -77,17 +73,6 @@
     <li><strong>Expand Gradually:</strong> As resources and requirements grow, incrementally expand the system’s capabilities and scale up the computational resources accordingly.</li>
 </ul>
 
-<h3>Example Workflow with Scaling and Efficiency</h3>
-<ol>
-    <li><strong>Input Analysis:</strong> The system processes input data or problem statements with initial lightweight models.</li>
-    <li><strong>Task Identification:</strong> The Task Identification Module determines the task type using efficient classifiers.</li>
-    <li><strong>Ethical and Contextual Considerations:</strong> Ethical guidelines and contextual information are integrated using scalable frameworks and modules.</li>
-    <li><strong>Strategy Selection:</strong> The Dynamic Strategy Selection Module chooses the learning paradigm based on the task and available resources.</li>
-    <li><strong>Execution:</strong> The selected module performs the task with optimized algorithms and efficient resource management.</li>
-    <li><strong>Transparency and Fact-Checking:</strong> The Truthfulness and Transparency Module ensures accuracy and explains decisions efficiently.</li>
-    <li><strong>Feedback and Adaptation:</strong> The system receives feedback and adjusts its approach based on performance and ethical considerations.</li>
-    <li><strong>Continuous Monitoring:</strong> Regularly monitor system performance and scale resources as needed to handle increasing complexity.</li>
-</ol>
 
 </body>
 </html>
